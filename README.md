@@ -5,7 +5,7 @@ This is a simple raytracer that I created, entirely with my own code in C.
 ## Usage
 
 ```
-git clone 
+git clone https://github.com/WyattAutomation/Simple-Raytracer-in-C.git
 cd Simple-Raytracer-in-C
 make
 ./a.out
