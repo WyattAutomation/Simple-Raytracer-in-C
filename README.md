@@ -1,6 +1,6 @@
 # Simple Ray Tracer in C
 
-This is a simple raytracer that I created, entirely with my own code in C.  
+This is a simple raytracer that I created in C  
 
 ## Usage
 
